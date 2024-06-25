@@ -1,0 +1,38 @@
+[
+    {
+        "id_transaccion": 2,
+        "id_vehiculo": 2,
+        "id_cliente": 2,
+        "tipo_transaccion": "Compra",
+        "fecha": "2024-01-20",
+        "monto": 14000,
+        "observaciones": "Compra registrada."
+    },
+    {
+        "id_transaccion": 3,
+        "id_vehiculo": null,
+        "id_cliente": "",
+        "tipo_transaccion": "",
+        "fecha": "",
+        "monto": "",
+        "observaciones": ""
+    },
+    {
+        "id_transaccion": 4,
+        "id_vehiculo": "3",
+        "id_cliente": "5",
+        "tipo_transaccion": "Compra",
+        "fecha": "2024-03-17",
+        "monto": "50000",
+        "observaciones": "compra realizada con \u00e9xito"
+    },
+    {
+        "id_transaccion": 5,
+        "id_vehiculo": "1",
+        "id_cliente": "2",
+        "tipo_transaccion": "compra",
+        "fecha": "25-06-2024",
+        "monto": "200000",
+        "observaciones": "compra"
+    }
+]

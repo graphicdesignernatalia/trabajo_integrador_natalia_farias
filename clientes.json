@@ -1,0 +1,65 @@
+[
+    {
+        "id_cliente": 1,
+        "nombre": "Juan",
+        "apellido": "P\u00e9rez",
+        "documento": "12345678",
+        "direccion": "Calle Falsa 123",
+        "telefono": "123-4567",
+        "correo_electronico": "juan.perez@example.com"
+    },
+    {
+        "id_cliente": 2,
+        "nombre": "Mar\u00eda",
+        "apellido": "G\u00f3mez",
+        "documento": "87654321",
+        "direccion": "Avenida Siempreviva 742",
+        "telefono": "987-6543",
+        "correo_electronico": "maria.gomez@example.com"
+    },
+    {
+        "id_cliente": 3,
+        "nombre": "Nuevo",
+        "apellido": "Cliente",
+        "documento": "00000000",
+        "direccion": "Direcci\u00f3n",
+        "telefono": "Tel\u00e9fono",
+        "correo_electronico": "email@example.com"
+    },
+    {
+        "id_cliente": 4,
+        "nombre": null,
+        "apellido": null,
+        "documento": null,
+        "direccion": null,
+        "telefono": null,
+        "correo_electronico": ""
+    },
+    {
+        "id_cliente": 5,
+        "nombre": "Luis",
+        "apellido": "Martinez",
+        "documento": "14525337",
+        "direccion": "manuel rodriguez 88",
+        "telefono": "2235647687",
+        "correo_electronico": "luis.martinez8@hotmail.com"
+    },
+    {
+        "id_cliente": 6,
+        "nombre": null,
+        "apellido": null,
+        "documento": null,
+        "direccion": null,
+        "telefono": null,
+        "correo_electronico": null
+    },
+    {
+        "id_cliente": 7,
+        "nombre": "Mauricio",
+        "apellido": null,
+        "documento": "14585337",
+        "direccion": "Col\u00f3n 4235",
+        "telefono": "2235678598",
+        "correo_electronico": "natalia.farias3083@hotmail.com"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_vehiculo": 1,
+        "patente": "ABC123",
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "tipo": "Sed\u00e1n",
+        "a\u00f1o": 2015,
+        "kilometraje": 75000,
+        "precio_compra": 12000,
+        "precio_venta": 15000,
+        "estado": "Disponible"
+    },
+    {
+        "id_vehiculo": 2,
+        "patente": "XYZ789",
+        "marca": "Ford",
+        "modelo": "Focus",
+        "tipo": "Hatchback",
+        "a\u00f1o": 2017,
+        "kilometraje": 50000,
+        "precio_compra": 14000,
+        "precio_venta": 17000,
+        "estado": "Reservado"
+    },
+    {
+        "id_vehiculo": 3,
+        "patente": "Mitsubishi",
+        "marca": "LX",
+        "modelo": "2016",
+        "tipo": "utilitaria",
+        "a\u00f1o": "2014",
+        "kilometraje": "0",
+        "precio_compra": "80000",
+        "precio_venta": "90000",
+        "estado": "Disponible"
+    },
+    {
+        "id_vehiculo": 4,
+        "patente": "98765",
+        "marca": "Renault",
+        "modelo": "Clio",
+        "tipo": "sed\u00e1n",
+        "a\u00f1o": "2001",
+        "kilometraje": "4500",
+        "precio_compra": "100000",
+        "precio_venta": "200000",
+        "estado": "Disponible"
+    }
+]
